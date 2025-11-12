@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel ponce</h1>
-<h3 align="center">A passionate frontend developer from Mexico city</h3>
+<h3 align="center"Curious computer engineering student from Mexico City, exploring data, AI, and innovation.</h3>
 
-- 🌱 I’m currently learning **DEVF**
-
-- 💬 Ask me about **html , css and a bit of javascript**
-
+- 🌱 I’m learning more every day.
 - 📫 How to reach me **ponceesamuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
