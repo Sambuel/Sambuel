@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel ponce</h1>
-<h3 align="center"Curious computer engineering student from Mexico City, exploring data, AI, and innovation.</h3>
+<h3 align="center">Curious computer engineering student from Mexico City, exploring data, AI, and innovation.</h3>
 
 - 🌱 I’m learning more every day.
 - 📫 How to reach me **ponceesamuel@gmail.com**
