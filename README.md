@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Samuel</h1>
-<h3 align="center">Estudiante curioso de ingeniería informática de la Ciudad de México, explorando datos, IA e innovación.</h3>
+<h3 align="center">Computer Engineering student | Building, learning, and exploring AI, software development, and technology.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Python y más.**
 
