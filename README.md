@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Computer Engineering student | Building, learning, and exploring AI, software development, and technology.</h3>
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Javascript, **Python , and more**
 
 - 📫 How to reach me **ponceesamuel@gmail.com**
 
